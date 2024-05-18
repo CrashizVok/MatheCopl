@@ -1,3 +1,8 @@
 # MatheCopl Tools Pack
-
-# Menu
+???
+## Install
+'''
+git clone https://github.com/CrashizVok/MatheCopl.git
+chmod +x mathecolp.sh
+bash mathecopl.sh
+'''
