@@ -9,6 +9,6 @@ This is the installer for all my code
 ### Menu 
 - Wireless Tools
 #### Wireless Tools
-- [Wifi S]()
+- [Wifi S](https://github.com/CrashizVok/Wifi-S.git)
   
 
