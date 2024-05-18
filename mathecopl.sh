@@ -33,9 +33,12 @@ function wirelesstools(){
 	echo "Wifi_S[0]"
 	echo "BACK[99]"
 	read -p "MatheCopl~# " wireless
-	if [ $wireless = 0 ];then
-		git clone https://github.com/CrashizVok/Wifi-S.git
-		reset
+	if [ $wireless = 0 ]; then
+	    cd Tools
+	    git clone https://github.com/CrashizVok/Wifi-S.git
+     	    echo "Succesful...."
+	    sleep 2
+	    reset
 	elif [ $wireless = 99 ];then
 		reset
 	else
