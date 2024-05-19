@@ -4,7 +4,7 @@ This is the installer for all my code
 ## Install
 - `git clone https://github.com/CrashizVok/MatheCopl.git`
 - `cd MatheCopl`
-- `chmod +x mathecolp.sh`
+- `chmod +x mathecopl.sh`
 - `bash mathecopl.sh`
 ## Function
 ### Menu 
