@@ -27,6 +27,8 @@ function choice(){
 	if [ $choice = 0 ];then
 		wirelesstools
   	elif [ $choice = 99 ];then
+   		echo "Thanks....."
+     		sleep 2
    		exit
 	else	
 		reset	
