@@ -2,6 +2,7 @@
 
 #2024.05.19
 #Installer
+mkdir Tools
 clear
 function border(){
     echo -e "\033[33m███╗   ███╗█████╗██████████╗  █████████╗     ██████╗██████╗██████╗██╗         \033[0m"
