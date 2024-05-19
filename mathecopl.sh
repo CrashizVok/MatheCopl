@@ -16,7 +16,7 @@ function border(){
     echo ""
 }
 function border_s(){
-	    echo -e "            \033[32m{0}--Wireless Tools\033[0m"
+	    echo -e "            \033[32m{0}--Sniffing & Spoofing\033[0m"
 	    echo ""
 	    echo -e "            \033[31mEXIT[99]\033[0m"
 	    echo ""
