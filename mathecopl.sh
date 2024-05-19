@@ -26,6 +26,8 @@ function choice(){
 	read -p "MatheCopl~# " choice
 	if [ $choice = 0 ];then
 		wirelesstools
+  	elif [ $choice = 99 ];then
+   		exit
 	else	
 		reset	
 	fi	
