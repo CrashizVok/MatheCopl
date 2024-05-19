@@ -8,8 +8,8 @@ This is the installer for all my code
 - `bash mathecopl.sh`
 ## Function
 ### Menu 
-- Wireless Tools
-#### Wireless Tools
+- Sniffing & Spoofing
+#### Sniffing & Spoofing
 - [Wifi S](https://github.com/CrashizVok/Wifi-S.git)
   
 
