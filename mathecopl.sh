@@ -26,10 +26,23 @@ function choice(){
 	read -p "MatheCopl~# " choice
 	if [ $choice = 0 ];then
 		wirelesstools
-  	elif [ $choice = 99 ];then
-   		echo "Thanks....."
-     		sleep 2
-   		exit
+	elif [ $choice = 99 ];then
+	   		clear
+	   		echo "Thanks."
+	   		sleep 1
+	     		clear
+	       		echo "Thanks.."
+	       		sleep 1
+		 	clear
+		 	echo "Thanks..."
+		 	sleep 1
+	     		clear
+	       		echo "Thanks...."
+	       		sleep 1
+		 	clear
+		 	echo "Good night $(whoami)"
+		 	sleep 2
+	   		exit
 	else	
 		reset	
 	fi	
